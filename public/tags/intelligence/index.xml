@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Intelligence | Gabriela Hofer</title>
+    <link>/tags/intelligence/</link>
+      <atom:link href="/tags/intelligence/index.xml" rel="self" type="application/rss+xml" />
+    <description>Intelligence</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 16 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Intelligence</title>
+      <link>/tags/intelligence/</link>
+    </image>
+    
+    <item>
+      <title>Self- and Other-Estimates of Intelligence</title>
+      <link>/publication/cambridgehandbook/</link>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/cambridgehandbook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-estimates of abilities are a better reflection of individuals’ personality traits than of their abilities and are also strong predictors of professional interests</title>
+      <link>/publication/paid/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/paid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The self–other knowledge asymmetry in cognitive intelligence, emotional intelligence, and creativity</title>
+      <link>/publication/heliyon/</link>
+      <pubDate>Mon, 24 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/heliyon/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
